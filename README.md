@@ -66,3 +66,8 @@ for more detail.
 ## No space left on device
 [Getting “no space left on device” errors with Boot2Docker?](https://docs.docker.com/articles/b2d_volume_resize/)
 
+## Boot2Docker issues
+
+Consider using [Kitematic](https://kitematic.com/)
+
+![km](http://i.imgur.com/F9GWqaZ.png)
