@@ -1,8 +1,8 @@
 #Machine Learning Tools in Docker
 
-![docker](http://blog.docker.com/wp-content/uploads/2013/08/KuDr42X_ITXghJhSInDZekNEF0jLt3NeVxtRye3tqco.png)
+<a href="https://www.docker.com/"><img src="http://blog.docker.com/wp-content/uploads/2013/08/KuDr42X_ITXghJhSInDZekNEF0jLt3NeVxtRye3tqco.png"></a>
 
-Machine learning tools are notorious for having byzantine dependencies and often academic code quality. This makes them hard to install and configure correctly across different machines and operating systems.  At  [Startup.ML](http://startup.ml/) we have been using Docker to simplify the process of getting these tools on our machines.
+Machine learning tools are notorious for having byzantine dependencies and often academic code quality. This makes them hard to install and configure correctly across different machines and operating systems.  At [Startup.ML](http://startup.ml/) we have been using Docker to simplify the process of getting these tools on our machines.
 
 ## Currently supported tools
 
@@ -66,3 +66,8 @@ for more detail.
 ## No space left on device
 [Getting “no space left on device” errors with Boot2Docker?](https://docs.docker.com/articles/b2d_volume_resize/)
 
+## Boot2Docker issues
+
+Consider using [Kitematic](https://kitematic.com/)
+
+<a href="https://kitematic.com/"><img src="http://i.imgur.com/F9GWqaZ.png"></a>
