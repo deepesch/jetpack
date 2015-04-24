@@ -1,6 +1,6 @@
 #Machine Learning Docker Images
 
-Machine learning tools are notorious for having byzantine dependencies academic code quality. This makes them easy to install and configure across a variety of machines and operating systems.
+Machine learning tools are notorious for having byzantine dependencies and academic code quality. This makes them easy to install and configure across a variety of machines and operating systems.
 
 ## Currently supported tools
 
