@@ -1,7 +1,5 @@
 #Machine Learning Docker Images
 
-<a href="https://www.docker.com/"><img src="http://blog.docker.com/wp-content/uploads/2013/08/KuDr42X_ITXghJhSInDZekNEF0jLt3NeVxtRye3tqco.png"></a>
-
 Machine learning tools are notorious for having byzantine dependencies and often academic code quality. This makes them hard to install and configure correctly across different machines and operating systems.
 
 ## Currently supported tools
