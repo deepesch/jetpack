@@ -1,4 +1,4 @@
-#Machine Learning Tools in Docker
+#Machine Learning Docker Images
 
 <a href="https://www.docker.com/"><img src="http://blog.docker.com/wp-content/uploads/2013/08/KuDr42X_ITXghJhSInDZekNEF0jLt3NeVxtRye3tqco.png"></a>
 
