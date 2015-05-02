@@ -18,7 +18,7 @@ RUN conda update --quiet --yes conda && \
     conda install --quiet --yes numpy scipy pandas matplotlib cython pyzmq scikit-learn seaborn six statsmodels pip tornado jinja2 sphinx pygments nose readline sqlalchemy
 
 # Set up IPython kernel
-RUN pip install ipython 
+pip install "ipython[notebook]" 
 
 # Clean up
 RUN apt-get clean && rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
